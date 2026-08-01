@@ -1,0 +1,117 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pipenv
+Pipfile.lock
+
+# Pyenv
+python-version
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# dotenv
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive
+~$*
+
+# Data, model artifacts and checkpoints
+/data/
+/datasets/
+/models/
+/checkpoints/
+/artifacts/
+/outputs/
+*.ckpt
+
+# MLflow
+mlruns/
+
+# Temporary files
+tmp/
+temp/
+
+# Notebook checkpoints and outputs
+*.nbconvert.ipynb
+
+# Backup files
+*~
+*.bak
+
+# Logs
+logs/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# Ignore personal project files
+*.pem
+.key
+
+# Windows image file caches
+*.db
