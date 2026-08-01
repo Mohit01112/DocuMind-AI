@@ -39,12 +39,12 @@ MODEL_NAME = "llama-3.3-70b-versatile"
 # ============================
 
 st.set_page_config(
-    page_title="PDF Chatbot",
+    page_title="DocuMind-AI",
     page_icon="📄",
     layout="wide"
 )
 
-st.title("📄 PDF Chatbot")
+st.title("📄 DocuMind-AI")
 st.caption("Chat with your uploaded PDF using Groq + FAISS")
 
 # ============================
