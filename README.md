@@ -2,6 +2,8 @@
 
 **DocuMind-AI** is an intelligent document assistant that lets you chat with your PDFs using **Retrieval-Augmented Generation (RAG)**. Upload any research paper, report, or document and ask questions in natural language — get accurate, context-grounded answers instantly.
 
+live:https://9hgk7rbmfkivwapevd3agt.streamlit.app/
+
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -239,6 +241,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Mohit**
 
 > *"Turning static documents into dynamic conversations."*
