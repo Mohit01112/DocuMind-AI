@@ -241,6 +241,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Made with ❤️ by Mohit**
+**Made by Mohit**
 
 > *"Turning static documents into dynamic conversations."*
